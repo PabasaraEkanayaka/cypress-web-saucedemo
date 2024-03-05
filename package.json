@@ -1,0 +1,22 @@
+{
+  "name": "cypress_web_saucedemo",
+  "version": "1.0.0",
+  "description": "demo creating automation web using cypress",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "cypress": "^13.6.6",
+    "cypress-multi-reporters": "^1.6.4",
+    "mocha": "^10.3.0",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  },
+  "devDependencies": {
+    "cypress-xpath": "^2.0.1"
+  }
+}
